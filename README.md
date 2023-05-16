@@ -5,8 +5,7 @@
 * CSS
 * JS
 ## In-Class Assignments
-* ICA1(../gibo8481.github.io/wa1.html)
-* ICA2
+* ICA1([../ica/ICA1_boudreau.pdf])
 * ICA3
 * ICA4
 * ICA5
