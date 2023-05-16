@@ -5,7 +5,7 @@
 * CSS
 * JS
 ## In-Class Assignments
-* ICA1([../ica/ICA1_boudreau.pdf])
+* ICA1 [../ica/ICA1-boudreau.pdf]
 * ICA3
 * ICA4
 * ICA5
