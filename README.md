@@ -5,8 +5,8 @@
 * CSS
 * JS
 ## In-Class Assignments
-* [ICA1] (ica/ICA1-boudreau.pdf)
-* [ICA2] (ica/ICA2-boudreau.pdf)
+* [ICA1](ica/ICA1-boudreau.pdf)
+* [ICA2](ica/ICA2-boudreau.pdf)
 * ICA3
 * ICA4
 * ICA5
@@ -21,8 +21,8 @@
 * ICA14
 * ICA15
 ## Weekly Assignments
-* [WA1] (wa/wa1.html)
-* [WA2] (wa/wa2.html)
+* [WA1](wa/wa1.html)
+* [WA2](wa/wa2.html)
 * WA3
 * WA4
 * WA5
