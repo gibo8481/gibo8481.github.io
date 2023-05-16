@@ -21,8 +21,8 @@
 * ICA14
 * ICA15
 ## Weekly Assignments
-* [WA1](wa/wa1.html)
-* [WA2](wa/wa2.html)
+* [WA1](https://gibo8481.github.io/wa/wa1.html)
+* [WA2](https://gibo8481.github.io/wa/wa2.html)
 * WA3
 * WA4
 * WA5
