@@ -22,7 +22,7 @@
 * ICA15
 ## Weekly Assignments
 * [WA1](https://gibo8481.github.io/wa/wa1.html)
-* [WA2](https://gibo8481.github.io/wa/wa2.html)
+* [WA2](http://127.0.0.1:5500/wa/wa2.html)
 * WA3
 * WA4
 * WA5
