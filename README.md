@@ -7,7 +7,7 @@
 ## In-Class Assignments
 * [ICA1](ica/ICA1-boudreau.pdf)
 * [ICA2](ica/ICA2-boudreau.pdf)
-* ICA3
+* [ICA3](https://gibo8481.github.io/ica/ICA3/assets/index.html)
 * ICA4
 * ICA5
 * ICA6
