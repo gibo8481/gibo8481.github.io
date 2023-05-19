@@ -1,0 +1,14 @@
+p{
+    color: red;
+    font-size: 150%;
+}
+#second-paragraph{
+    color:blue;
+}
+h1, h2 {
+    font-size: 150%;
+    background-color:salmon;
+}
+.h2-class{
+    border: 4px dashed black;
+}
