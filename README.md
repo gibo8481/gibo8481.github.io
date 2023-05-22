@@ -1,7 +1,7 @@
 # gibo8481.github.io
 
 ## Projects
-* HTML
+* [HTML](https://gibo8481.github.io/html-midterm/page5.html)
 * CSS
 * JS
 ## In-Class Assignments
