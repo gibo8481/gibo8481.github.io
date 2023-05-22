@@ -9,7 +9,7 @@
 * [ICA2](ica/ICA2-boudreau.pdf)
 * [ICA3](https://gibo8481.github.io/ica/ICA3/assets/index.html)
 * [ICA4](https://gibo8481.github.io/ica/ICA4/ICA4.html)
-* ICA5
+* [ICA5](https://gibo8481.github.io/ica/ica5.html)
 * ICA6
 * ICA7
 * ICA8

@@ -1,0 +1,23 @@
+.test{
+    font-size: 100px;
+    /* padding pushes content away*/
+    border: 2px dashed purple;
+    padding: 25px;
+    margin: 100px; /* margin pushes content way from border*/
+}
+p, ul{ /*list of elements this rule applies to*/
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+}
+li, .block{
+    border: 2px solid blue;
+    padding: .5em;
+}
+ul{
+    display: flex;
+    list-style: none;
+    border: 3px solid red;
+}
+/*rem grabs from the root element, html, em grabs from the parent
+- vh: view height
+-vw: view width*/
