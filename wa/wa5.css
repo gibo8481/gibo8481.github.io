@@ -1,0 +1,59 @@
+.background-img {
+    width: 100%;
+    position:relative;
+
+}
+
+h1, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+.heading{
+    position:absolute;
+    bottom: 10.4px;
+    right: 420px;
+    background-color:rgba(220,20,60,0.9);
+    padding: 20px;
+    color: white;
+    border-radius: 25px;
+
+}
+.palette{
+    position:absolute;
+    bottom: 190px;
+    left: 520px;
+    background-color: rgba(128,128,128,0.9);
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+}
+.call{
+    position:absolute;
+    bottom: 10.4px;
+    left: 100px;
+    background-color: rgba(128,128,128,0.9);
+    padding: 10px;
+    color:white;
+    border-radius: 25px;
+    width: 700px;
+}
+.name{
+    position:absolute;
+    top: 10px;
+    left: 100px;
+    background-color: rgba(128,128,128,0.9);
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+}
+.special{
+    position:absolute;
+    top: 220px;
+    left: 100px;
+    background-color:rgba(220,20,60,0.9);
+    padding: 20px;
+    color: white;
+    border-radius: 25px;
+    width:320px;
+
+}

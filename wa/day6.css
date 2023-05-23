@@ -1,0 +1,44 @@
+.global-flex{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.nav-flex{
+    grid-column-start: 0;
+    grid-column-end: 1;
+    grid-column-start: 1;
+    grid-column-end: 0;
+}
+.content-flex{
+    margin:25px;
+}  
+.img-flex{
+    grid-column-start: 0;
+    grid-column-end: 1;
+    grid-column-start: 0;
+    grid-column-end: 0;
+
+} 
+img{
+    height: 150px;
+    width: auto;
+}
+@media screen and (max-width: 900px) /*anything under 450px this will take affect*/
+{
+    .global-flex{
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+.nav-flex{
+    margin: 0px;
+}
+.content-flex{
+    margin: 20px;
+}
