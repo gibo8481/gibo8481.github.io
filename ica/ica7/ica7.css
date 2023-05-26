@@ -7,15 +7,26 @@ body{
     height: 20vh;
     background-color: indianred;
 }
-
+#box1:hover{
+    background-color: purple;
+}
 
 #box2{
     width: 25vw;
     height:20vh;
     position: relative;
     background-color: orangered;
+
+    animation-name:box2move;
+    position:relative;
+    animation-delay:1s;
+    animation-duration:4s;
 }
 
 @keyframes box2move{
-
-}
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+}  

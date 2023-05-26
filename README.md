@@ -11,7 +11,7 @@
 * [ICA4](https://gibo8481.github.io/ica/ICA4/ICA4.html)
 * [ICA5](https://gibo8481.github.io/ica/ica5.html)
 * [ICA6](https://gibo8481.github.io/ica/ica6/ica6-part1.html)
-* ICA7
+* [ICA7](https://gibo8481.github.io/ica/ica7/ica7.html)
 * ICA8
 * ICA9
 * ICA10
@@ -26,8 +26,8 @@
 * [WA3](https://gibo8481.github.io/wa/wa3.html)
 * [WA4](https://gibo8481.github.io/wa/wa4.html)
 * [WA5](https://gibo8481.github.io/wa/wa5.html)
-* WA6
-* WA7
+* [WA6](https://gibo8481.github.io/wa/wa6/wa6.html)
+* [WA7](https://gibo8481.github.io/wa/wa7/wa7.html)
 * WA8
 * WA9
 * WA10

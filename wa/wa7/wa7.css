@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #471ED9;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: #D90B7C;
+}
+nav:hover{
+    background-color: #A6089B;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+h1{
+    color:whitesmoke;
+}
+
+img{
+    width:50vw;
+    height: 70vh;
+}
+
+#red-ball{
+    background-color:#F21D1D;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: relative;
+    top:auto;
+    left:30vw;
+    box-shadow: 3px 3px 3px rgba(242, 29, 29,0.5);
+
+    animation: bounce 0.5s;
+    animation-direction: alternate;
+    animation-timing-function: cubic-bezier(.5,0.05,1,.5);
+    animation-iteration-count: infinite;
+}
+@keyframes bounce {
+    from {transform: translate3d(0, 0, 0);     }
+    to   {transform: translate3d(0, 200px, 0); }
+}
