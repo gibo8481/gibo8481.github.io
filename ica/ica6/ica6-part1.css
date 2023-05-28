@@ -3,6 +3,7 @@ body{
 }
 #box1{
     position:relative;
+
     border-style:solid;
     width: 40vw;
     height: 33vh;
@@ -15,9 +16,9 @@ body{
 #box2{
     position: relative;
     bottom: 0px;
+
     width: 73vw;
     height: 33vh;
-    bottom:100%;
     border-style: solid;
     border-radius:3px;
     border-color:purple;
@@ -32,6 +33,7 @@ height: 175vh;
 border-radius: 10px;
 background-color: orangered;
 }
+
 #text1{
     position:relative;
     left: 700px;

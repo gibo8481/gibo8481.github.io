@@ -13,9 +13,6 @@ nav{
     height:20px;
     background-color: #D90B7C;
 }
-nav:hover{
-    background-color: #A6089B;
-}
 nav a{
     width:10vw;
     text-align: center;
@@ -26,9 +23,19 @@ h1{
     color:whitesmoke;
 }
 
-img{
-    width:50vw;
-    height: 70vh;
+nav:hover{
+    background-color:aqua;
+}
+.blue{
+    display:block;
+    width:600px;
+    height:600px;
+    transition: width 2s, height 2s, rotate 2s;
+}
+.blue:hover{
+    width: 500px;
+    height: 500px;
+    rotate: 180deg;
 }
 
 #red-ball{

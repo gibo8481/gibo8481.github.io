@@ -1,9 +1,12 @@
-.overlay {
+.container {
     width: 100%;
     position:relative;
 
 }
 
+.img{
+    width:100%;
+}
 h1, p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;

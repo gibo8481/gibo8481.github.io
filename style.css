@@ -1,0 +1,125 @@
+html{
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight:5px;
+    background: radial-gradient(circle, #689BA6 10%, transparent 11%);
+    background-size: 1em 1em;
+    background-color: #ffffff;
+    opacity: 1
+    
+}
+body{
+    margin:0px;
+}
+#name{
+    font-family:fantasy;
+    font-style:italic;
+    font-weight:lighter;
+    font-size: 150%;
+
+    position:sticky;
+}
+#hello{
+    font-size: 500%;
+    color:#BF3945;
+
+    position:relative;
+    left:50px;
+
+}
+.box{
+    background: radial-gradient(circle at top left,transparent 25%,#8C8A69 25.5%, #8C8A69 36%, transparent 37%, transparent 100%),radial-gradient(circle at bottom right,transparent 34%,#8C8A69 34.5%, #8C8A69 45.5%, transparent 46%, transparent 100%);
+    background-size: 1em 1em;
+    background-color: #ffffff;
+    opacity: 1;
+
+    height:650px;
+
+    grid-column:3;
+}
+.main{
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+.center-container{
+    background-color:#689BA6;
+    
+    width:1000px;
+    color:white;
+    font-weight:lighter;
+    padding: 50px;
+    text-align: right;
+
+    grid-column:2;
+
+    display:grid;;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows:1fr;
+
+
+}
+
+#subtitle{
+    font-style: italic;
+    color:#C7D9D9;
+    
+    grid-column:2;
+}
+#intro{
+    grid-column:2;
+    grid-row:2;
+}
+#headshot{
+    display:block;
+    width:250px;
+    height:250px;
+    border-radius:50px;
+    border-style: groove;
+    grid-column:0;
+    grid-row:1;
+
+}
+nav{
+    position:sticky;
+    top:0;
+    background-color: #F2CF66;
+    padding:.5em;
+    width:50px;
+    height:650px;
+    grid-column:0;
+    grid-row:0;
+
+}
+nav a{
+    font-weight:100px;
+    text-decoration: none;
+    rotate:180deg;
+    color:rgb(39, 37, 37);
+    text-align:center;
+}
+nav a:hover{
+    color:#ffffff;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: justify;
+    display:flex;
+    flex-direction:column;
+    align-items: space-between;
+    width:100%;
+    flex-wrap:wrap;
+}
+img{
+    width:90%;
+}
+.photos{
+    list-style:none;
+    margin:0;
+    padding:0;
+
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr;
+}   
+
