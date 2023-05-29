@@ -34,15 +34,14 @@ main{
 }
 
 .heading{
-    width:1350px;
-    height:100%;
+    width:fit-content;
+    height:auto;
     background-color:#22cae09d;
     color:black;
     font-weight:lighter;
-    padding: 100px;
+    padding: 143px;
     text-align: right;
     width:800px;
-    border-radius: 10px;
 
     align-self:center;
 
@@ -70,8 +69,8 @@ main{
 nav{
     background-color: #FFFF00;
     padding:.5em;
-    width:150px;
-    height:730px;
+    width:fit-content;
+    height:auto;
     align-self: left;
 
 }
@@ -104,7 +103,6 @@ nav ul{
     }
     .heading{
         text-align: left;
-
         display:flex;
         flex-direction: column;
     }
