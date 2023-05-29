@@ -52,6 +52,8 @@ main{
     font-style: italic;
     font-size:larger;
     grid-column:2;
+
+    color:rgb(66, 66, 66);
 }
 #intro{
     font-size:200%;
@@ -64,6 +66,8 @@ main{
     border-radius:50%;
     grid-column:0;
     grid-row:1;
+
+    border:solid #FFC5D0;
 
 }
 nav{
