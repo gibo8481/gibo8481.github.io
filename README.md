@@ -2,7 +2,7 @@
 
 ## Projects
 * [HTML](https://gibo8481.github.io/html-midterm/page5.html)
-* CSS
+* [CSS](https://gibo8481.github.io)
 * JS
 ## In-Class Assignments
 * [ICA1](ica/ICA1-boudreau.pdf)
