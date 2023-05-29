@@ -12,11 +12,9 @@ body{
 }
 main{
 
-    width:100%;
-    height:auto;
     display:flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: space-between;
 }
 #name{
     font-family:fantasy;
@@ -74,6 +72,7 @@ nav{
     padding:.5em;
     width:150px;
     height:730px;
+    align-self: left;
 
 }
 nav a{
