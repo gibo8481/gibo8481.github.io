@@ -1,12 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Element</title>
-</head>
-<body>
-    <button type
-</body>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Function start</title>
+    <script defer src="ica8.js"></script>
+    <style>
+        button {
+        width: 200px;
+        background: yellowgreen;
+        color: white;
+        font-weight:bold;
+        padding:10px;
+        border-radius: 10px;
+        }
+
+        .tap-target {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 16em;
+        height: 16em;
+        padding: 1em;
+        margin: 1rem auto;
+        box-sizing: border-box;
+  
+       
+
+        font-size: 1.125em;
+        text-align: center;
+        color: #fff;
+        background-color: #29e;
+
+        cursor: pointer;
+        touch-action: none;
+        user-select: none;
+
+        transition: all 0.3s;
+        }
+    </style>
+  </head> 
+  <body>
+
+    <div class = msgBox>
+        <button id="btn">Click me!</button>
+    </div>
+    <h3 id="hding"></h3>
+
+    <div class="tap-target" id="circle">
+        <p>Mouse over me to change color!</p>
+    </div>
+
+  </body>
 </html>
