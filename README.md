@@ -12,7 +12,7 @@
 * [ICA5](https://gibo8481.github.io/ica/ica5.html)
 * [ICA6](https://gibo8481.github.io/ica/ica6/ica6-part1.html)
 * [ICA7](https://gibo8481.github.io/ica/ica7/ica7.html)
-* [ICA8](https://gibo8481.github.io/ica/ica8.html)
+* [ICA8](https://gibo8481.github.io/ica/ica8/ica8.html)
 * [ICA9](https://gibo8481.github.io/ica/ica9/ica9.html)
 * [ICA10](https://gibo8481.github.io/ica/ica10/ica10.html)
 
