@@ -26,11 +26,16 @@ async function getFact(){
     }
 }
 
-const showImageButton = document.getElementById("show-image-button");
-const myImage = document.getElementById("my-image"); 
-showImageButton.addEventListener("click", () => { 
-   myImage.style.display = "block"; 
-});
+const showImageButton = document.getElementById("#show-image-button");
+const imgBtn = document.addEventListener('click', showImage)
+// const myImage = document.getElementById("my-image");
+// showImageButton.addEventListener("click", () => {
+
+//    myImage.style.display = "block"; 
+// });
+function showImage(){
+    imgBtn.style.display = "block"
+}
    
 
   
